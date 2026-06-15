@@ -1,6 +1,0 @@
-streamlit
-PyMuPDF
-Pillow
-numpy
-openpyxl
-pyxlsb
